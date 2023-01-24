@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manar Chafei</h1>
-<h3 align="center">A passionate frontend developer from Tunisia 🇹🇳</h3>
+<h3 align="center">A passionate frontend developer from Tunisia :tunisia: </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/79658236/212353739-86d5f96b-200c-414c-a872-e10b218c3469.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manar-chafei&label=Profile%20views&color=0e75b6&style=flat" alt="manar-chafei" /> </p>
 
